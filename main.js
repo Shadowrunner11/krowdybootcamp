@@ -33,5 +33,8 @@ function validateUsername(){
 }
 
 
+// TODO: Implementar el siguiente menu si el usuario coloca empezar juego
+// TODO: Opcional, refactorizar el bucle con etiqueta 
+// TODO: Avanzado, refactorizar con OOP o con AOP
 
 
